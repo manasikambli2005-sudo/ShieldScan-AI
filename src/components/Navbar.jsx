@@ -9,7 +9,7 @@ function Navbar() {
       </div>
 
       <a
-        href="https://github.com/"
+        href="https://github.com/manasikambli2005-sudo/ShieldScan-AI"
         target="_blank"
         rel="noreferrer"
         className="github-btn"
